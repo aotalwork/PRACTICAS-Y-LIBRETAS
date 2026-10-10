@@ -1,0 +1,201 @@
+ID,Name,Age,Nationality,Overall,Potential,Club,Value (M),Wage (K),Position,Joined,Height,Weight,Release Clause
+158023,L. Messi,31.0,Argentina,94.0,94.0,FC Barcelona,110.5,565.0,RF,"Jul 1, 2004",170.18,,€226.5M
+20801,Cristiano Ronaldo,33.0,Portugal,94.0,94.0,Juventus,77.0,405.0,ST,"Jul 10, 2018",187.96,83.007336,€127.1M
+190871,Neymar Jr,26.0,Brazil,92.0,93.0,Paris Saint-Germain,118.5,290.0,LW,"Aug 3, 2017",175.26,68.0388,€228.1M
+193080,De Gea,27.0,Spain,91.0,93.0,Manchester United,72.0,260.0,,"Jul 1, 2011",193.04,76.203456,€138.6M
+192985,K. De Bruyne,27.0,Belgium,91.0,92.0,Manchester City,102.0,355.0,RCM,"Aug 30, 2015",154.94,69.85316800000001,€196.4M
+183277,E. Hazard,27.0,Belgium,91.0,91.0,Chelsea,93.0,340.0,LF,"Jul 1, 2012",172.72,73.935496,€172.1M
+177003,L. Modrić,32.0,Croatia,91.0,91.0,Real Madrid,67.0,420.0,RCM,"Aug 1, 2012",172.72,66.224432,€137.4M
+176580,L. Suárez,31.0,Uruguay,91.0,91.0,FC Barcelona,80.0,455.0,RS,"Jul 11, 2014",182.88,86.18248,€164M
+155862,Sergio Ramos,32.0,Spain,91.0,91.0,Real Madrid,51.0,380.0,RCB,"Aug 1, 2005",182.88,82.10015200000001,€104.6M
+200389,J. Oblak,25.0,Slovenia,90.0,,Atlético Madrid,68.0,94.0,GK,"Jul 16, 2014",187.96,87.089664,€144.5M
+188545,R. Lewandowski,29.0,Poland,90.0,90.0,FC Bayern München,77.0,205.0,ST,"Jul 1, 2014",182.88,79.83219199999998,€127.1M
+182521,T. Kroos,28.0,Germany,90.0,90.0,Real Madrid,76.5,355.0,LCM,"Jul 17, 2014",182.88,76.203456,€156.8M
+182493,D. Godín,32.0,Uruguay,90.0,90.0,,44.0,125.0,CB,"Aug 4, 2010",187.96,78.017824,€90.2M
+168542,David Silva,32.0,Spain,90.0,90.0,Manchester City,60.0,285.0,LCM,"Jul 14, 2010",172.72,67.13161600000001,€111M
+215914,N. Kanté,27.0,France,89.0,90.0,Chelsea,63.0,225.0,,,167.64,72.121128,€121.3M
+211110,P. Dybala,24.0,Argentina,89.0,94.0,Juventus,89.0,205.0,LF,"Jul 1, 2015",154.94,74.84268,€153.5M
+202126,H. Kane,24.0,England,89.0,91.0,Tottenham Hotspur,83.5,205.0,ST,"Jul 1, 2010",187.96,88.904032,€160.7M
+194765,,27.0,,89.0,90.0,,78.0,145.0,CAM,"Jul 28, 2014",175.26,73.028312,€165.8M
+192448,M. ter Stegen,26.0,Germany,89.0,92.0,FC Barcelona,58.0,240.0,GK,"Jul 1, 2014",187.96,84.821704,€123.3M
+192119,T. Courtois,26.0,Belgium,89.0,90.0,Real Madrid,53.5,240.0,GK,"Aug 9, 2018",198.12,96.16150400000001,€113.7M
+189511,Sergio Busquets,29.0,Spain,89.0,89.0,FC Barcelona,,315.0,CDM,"Sep 1, 2008",187.96,76.203456,€105.6M
+179813,E. Cavani,31.0,Uruguay,89.0,89.0,Paris Saint-Germain,60.0,200.0,LS,"Jul 16, 2013",185.42,77.11064,€111M
+167495,M. Neuer,32.0,Germany,89.0,89.0,FC Bayern München,38.0,130.0,GK,"Jul 1, 2011",193.04,92.079176,€62.7M
+153079,S. Agüero,30.0,Argentina,,89.0,,64.5,300.0,ST,"Jul 28, 2011",172.72,69.85316800000001,€119.3M
+138956,G. Chiellini,33.0,Italy,89.0,89.0,Juventus,27.0,215.0,LCB,"Jul 1, 2005",187.96,84.821704,€44.6M
+231747,K. Mbappé,19.0,France,88.0,95.0,Paris Saint-Germain,81.0,100.0,RM,"Jul 1, 2018",154.94,,€166.1M
+209331,M. Salah,26.0,Egypt,88.0,89.0,Liverpool,69.5,255.0,RM,"Jul 1, 2017",175.26,71.213944,€137.3M
+200145,Casemiro,26.0,Brazil,88.0,90.0,Real Madrid,59.5,285.0,CDM,"Jul 11, 2013",185.42,83.91452,€126.4M
+198710,J. Rodríguez,26.0,Colombia,88.0,89.0,FC Bayern München,69.5,315.0,LAM,,154.94,78.017824,
+198219,L. Insigne,27.0,Italy,,88.0,Napoli,62.0,,LW,"Jul 1, 2010",162.56,58.96696,€105.4M
+197781,Isco,26.0,Spain,88.0,91.0,Real Madrid,73.5,315.0,LW,"Jul 3, 2013",175.26,78.92500799999999,€156.2M
+190460,C. Eriksen,26.0,Denmark,88.0,91.0,Tottenham Hotspur,73.5,205.0,CAM,"Aug 30, 2013",154.94,76.203456,€141.5M
+189242,Coutinho,26.0,Brazil,88.0,89.0,FC Barcelona,69.5,340.0,LW,"Jan 6, 2018",172.72,68.0388,€147.7M
+188567,P. Aubameyang,29.0,Gabon,88.0,88.0,Arsenal,59.0,265.0,LM,"Jan 31, 2018",187.96,79.83219199999998,€112.1M
+178603,M. Hummels,29.0,Germany,88.0,,FC Bayern München,46.0,160.0,LCB,"Jul 1, 2016",190.5,92.079176,€75.9M
+176676,Marcelo,30.0,Brazil,88.0,88.0,Real Madrid,,285.0,LB,"Jan 1, 2007",175.26,79.83219199999998,€88.2M
+173731,G. Bale,28.0,Wales,88.0,88.0,Real Madrid,60.0,355.0,ST,"Sep 2, 2013",185.42,82.10015200000001,€123M
+167948,H. Lloris,31.0,France,88.0,88.0,Tottenham Hotspur,36.0,150.0,GK,"Aug 1, 2012",187.96,82.10015200000001,€66.6M
+167664,G. Higuaín,30.0,Argentina,88.0,88.0,Milan,57.0,245.0,LS,,185.42,88.904032,
+164240,Thiago Silva,33.0,Brazil,88.0,88.0,Paris Saint-Germain,24.0,165.0,RCB,,182.88,82.10015200000001,€44.4M
+162835,S. Handanovič,33.0,Slovenia,88.0,88.0,Inter,30.0,110.0,GK,"Jul 1, 2012",193.04,92.079176,€51M
+1179,G. Buffon,40.0,Italy,88.0,88.0,Paris Saint-Germain,4.0,77.0,GK,"Jul 6, 2018",193.04,92.079176,€7.4M
+205600,S. Umtiti,24.0,France,87.0,92.0,FC Barcelona,57.0,205.0,CB,"Jul 12, 2016",182.88,74.84268,€121.1M
+201399,M. Icardi,25.0,Argentina,87.0,,Inter,64.5,130.0,ST,"Jul 9, 2013",154.94,74.84268,€114.5M
+201024,K. Koulibaly,27.0,Senegal,87.0,90.0,,51.0,115.0,LCB,"Jul 1, 2014",187.96,88.904032,€90.5M
+195864,P. Pogba,25.0,France,87.0,91.0,Manchester United,64.0,210.0,RDM,"Aug 9, 2016",193.04,83.91452,€123.2M
+193041,K. Navas,31.0,Costa Rica,87.0,87.0,Real Madrid,30.5,195.0,GK,"Aug 3, 2014",185.42,79.83219199999998,€62.5M
+192505,R. Lukaku,25.0,Belgium,87.0,89.0,Manchester United,62.5,230.0,ST,"Jul 10, 2017",190.5,93.89354399999999,€120.3M
+192387,C. Immobile,28.0,Italy,87.0,87.0,Lazio,52.0,115.0,ST,"Jul 27, 2016",185.42,84.821704,€88.4M
+189332,Jordi Alba,29.0,Spain,87.0,87.0,FC Barcelona,38.0,250.0,LB,"Jul 1, 2012",170.18,68.0388,€77.9M
+175943,D. Mertens,31.0,Belgium,87.0,87.0,Napoli,45.0,135.0,RF,"Jul 1, 2013",170.18,60.781328,€76.5M
+172871,J. Vertonghen,31.0,Belgium,87.0,87.0,Tottenham Hotspur,34.0,155.0,LCB,"Jul 1, 2012",187.96,86.18248,€62.9M
+171877,M. Hamšík,30.0,Slovakia,87.0,87.0,Napoli,46.5,125.0,LCM,"Jul 1, 2007",182.88,78.92500799999999,€79.1M
+168651,I. Rakitić,30.0,Croatia,87.0,87.0,FC Barcelona,46.5,260.0,RCM,"Jul 1, 2014",182.88,78.017824,€95.3M
+152729,Piqué,31.0,Spain,87.0,87.0,FC Barcelona,34.0,240.0,RCB,"Jul 1, 2008",193.04,84.821704,€69.7M
+222492,L. Sané,22.0,Germany,86.0,92.0,Manchester City,61.0,195.0,LW,"Aug 2, 2016",182.88,74.84268,€125.1M
+218667,Bernardo Silva,,Portugal,86.0,91.0,Manchester City,59.5,180.0,RW,"Jul 1, 2017",172.72,63.956472,€114.5M
+210257,Ederson,24.0,Brazil,86.0,90.0,Manchester City,41.5,125.0,GK,"Jul 1, 2017",187.96,86.18248,€79.9M
+208722,S. Mané,26.0,Senegal,86.0,87.0,Liverpool,52.0,195.0,LM,"Jul 1, 2016",175.26,68.945984,€102.7M
+203376,V. van Dijk,26.0,Netherlands,86.0,88.0,Liverpool,44.5,165.0,LCB,"Jan 1, 2018",193.04,92.079176,€87.9M
+202652,R. Sterling,23.0,England,86.0,89.0,Manchester City,56.5,195.0,RW,,170.18,68.945984,€108.8M
+201942,Roberto Firmino,26.0,Brazil,86.0,87.0,,53.0,195.0,CAM,"Jul 6, 2015",154.94,76.203456,€104.7M
+201535,R. Varane,25.0,France,86.0,91.0,Real Madrid,50.0,210.0,RCB,"Jul 1, 2011",190.5,81.19296800000001,€106.3M
+199556,M. Verratti,25.0,Italy,86.0,89.0,,55.0,135.0,LCM,"Jul 18, 2012",165.1,59.874143999999994,€105.9M
+191043,Alex Sandro,27.0,Brazil,86.0,86.0,Juventus,36.5,160.0,LB,"Aug 21, 2015",154.94,79.83219199999998,€60.2M
+190483,Douglas Costa,27.0,Brazil,86.0,86.0,Juventus,46.5,175.0,LM,"Jul 1, 2018",172.72,,€76.7M
+189596,T. Müller,28.0,Germany,86.0,86.0,FC Bayern München,45.0,135.0,CAM,"Aug 10, 2008",185.42,74.84268,€74.3M
+189509,Thiago,27.0,Spain,86.0,86.0,FC Bayern München,45.5,130.0,CM,"Jul 14, 2013",175.26,69.85316800000001,€75.1M
+188350,M. Reus,29.0,Germany,86.0,86.0,Borussia Dortmund,43.5,100.0,LM,"Jul 1, 2012",154.94,71.213944,€74M
+184432,Azpilicueta,28.0,Spain,86.0,86.0,Chelsea,35.0,175.0,RB,"Aug 24, 2012",154.94,76.203456,€64.8M
+184344,L. Bonucci,31.0,Italy,86.0,86.0,Juventus,30.0,160.0,RCB,"Aug 2, 2018",190.5,84.821704,€49.5M
+184087,T. Alderweireld,29.0,Belgium,86.0,87.0,Tottenham Hotspur,39.0,150.0,RCB,"Jul 8, 2015",185.42,81.19296800000001,€75.1M
+180206,M. Pjanić,28.0,Bosnia Herzegovina,86.0,86.0,Juventus,44.0,180.0,CDM,"Jul 1, 2016",154.94,72.121128,€72.6M
+177509,M. Benatia,31.0,Morocco,86.0,86.0,Juventus,30.0,160.0,CB,"Aug 26, 2014",187.96,93.89354399999999,€49.5M
+176635,M. Özil,29.0,Germany,86.0,86.0,Arsenal,43.5,190.0,CAM,"Sep 2, 2013",154.94,76.203456,€82.7M
+135507,Fernandinho,33.0,Brazil,86.0,86.0,Manchester City,18.0,185.0,CDM,"Jul 1, 2013",154.94,67.13161600000001,€33.3M
+41,Iniesta,34.0,Spain,86.0,86.0,Vissel Kobe,21.5,21.0,LF,"Jul 16, 2018",170.18,68.0388,€26.9M
+232363,M. Škriniar,23.0,Slovakia,85.0,92.0,Inter,46.5,82.0,LCB,"Jul 7, 2017",187.96,79.83219199999998,€88.4M
+223848,S. Milinković-Savić,23.0,Serbia,85.0,90.0,Lazio,50.5,73.0,CM,"Aug 6, 2015",190.5,,€89.6M
+220834,Marco Asensio,22.0,Spain,85.0,92.0,Real Madrid,54.0,215.0,RW,"Jul 1, 2015",182.88,76.203456,€121.5M
+216594,N. Fekir,24.0,France,85.0,89.0,Olympique Lyonnais,50.0,92.0,CAM,"Jul 1, 2013",172.72,74.84268,€98.8M
+212831,Alisson,25.0,Brazil,85.0,90.0,Liverpool,36.5,115.0,GK,"Jul 19, 2018",190.5,91.171992,€72.1M
+212622,J. Kimmich,23.0,Germany,85.0,88.0,FC Bayern München,40.5,92.0,RCM,"Jul 1, 2015",175.26,69.85316800000001,€69.9M
+208421,Saúl,23.0,Spain,85.0,90.0,Atlético Madrid,50.5,77.0,RCM,"Jul 1, 2013",182.88,77.11064,€107.3M
+204485,R. Mahrez,27.0,Algeria,85.0,85.0,Manchester City,40.5,205.0,RW,"Jul 10, 2018",154.94,67.13161600000001,€74.9M
+197445,D. Alaba,26.0,Austria,85.0,87.0,FC Bayern München,38.0,110.0,LB,"Feb 10, 2010",154.94,76.203456,€65.6M
+193747,Koke,26.0,Spain,85.0,86.0,Atlético Madrid,45.0,88.0,LM,"Jan 1, 2011",175.26,73.935496,€95.6M
+193301,A. Lacazette,27.0,France,85.0,86.0,Arsenal,45.0,180.0,ST,"Jul 5, 2017",175.26,73.028312,€88.9M
+192774,K. Manolas,27.0,Greece,85.0,87.0,Roma,37.5,96.0,LCB,"Aug 26, 2014",187.96,83.007336,€66.6M
+192366,N. Otamendi,30.0,Argentina,85.0,85.0,Manchester City,28.5,170.0,CB,"Aug 20, 2015",182.88,81.19296800000001,€52.7M
+189513,Parejo,29.0,Spain,85.0,85.0,Valencia CF,,66.0,RCM,"Jul 1, 2011",182.88,73.935496,€77.7M
+187961,Paulinho,29.0,Brazil,85.0,85.0,Guangzhou Evergrande Taobao FC,37.0,235.0,LDM,,182.88,71.213944,
+186153,W. Szczęsny,28.0,Poland,85.0,87.0,Juventus,32.0,125.0,GK,,195.58,,€55.2M
+184941,A. Sánchez,29.0,Chile,85.0,85.0,Manchester United,37.5,215.0,RW,"Jan 22, 2018",170.18,73.935496,€69.4M
+184267,Y. Brahimi,28.0,Algeria,85.0,85.0,FC Porto,39.0,28.0,LM,"Jul 22, 2014",175.26,66.224432,€78M
+183907,J. Boateng,29.0,Germany,85.0,85.0,FC Bayern München,30.0,115.0,RCB,"Jul 14, 2011",193.04,89.811216,€49.5M
+181872,A. Vidal,31.0,Chile,85.0,85.0,FC Barcelona,26.0,205.0,CAM,"Aug 6, 2018",154.94,74.84268,€53.3M
+181458,I. Perišić,29.0,Croatia,85.0,85.0,Inter,37.5,110.0,LM,"Sep 1, 2015",185.42,79.83219199999998,€63.8M
+180930,E. Džeko,32.0,,85.0,85.0,Roma,30.5,115.0,ST,"Jul 1, 2015",193.04,83.91452,€51.9M
+179846,S. Khedira,31.0,Germany,85.0,85.0,Juventus,33.0,160.0,RCM,"Jul 1, 2015",187.96,89.811216,€54.5M
+179844,Diego Costa,29.0,Spain,85.0,85.0,Atlético Madrid,38.5,100.0,LS,"Jan 1, 2018",187.96,86.18248,€78.9M
+178518,R. Nainggolan,30.0,Belgium,85.0,85.0,Inter,35.5,105.0,CAM,"Jul 1, 2018",175.26,77.11064,€60.4M
+171919,Naldo,35.0,Brazil,85.0,85.0,FC Schalke 04,9.0,38.0,CB,"Jul 1, 2016",198.12,91.171992,€15.3M
+170890,B. Matuidi,31.0,France,85.0,85.0,Juventus,26.0,145.0,LM,"Aug 18, 2017",154.94,74.84268,€42.9M
+168609,Miranda,33.0,Brazil,85.0,85.0,Inter,15.5,96.0,CB,"Jul 1, 2017",185.42,78.017824,€26.4M
+165153,K. Benzema,30.0,France,85.0,85.0,Real Madrid,37.0,240.0,ST,"Jul 9, 2009",185.42,81.19296800000001,€75.9M
+164169,Filipe Luís,32.0,Brazil,85.0,85.0,Atlético Madrid,21.5,81.0,LB,"Jul 28, 2015",182.88,73.935496,€44.1M
+139720,V. Kompany,32.0,Belgium,85.0,85.0,Manchester City,22.0,170.0,CB,"Aug 22, 2008",190.5,84.821704,€40.7M
+120533,Pepe,35.0,Portugal,85.0,85.0,Beşiktaş JK,9.0,57.0,RCB,"Jul 4, 2017",187.96,81.19296800000001,€17.1M
+41236,Z. Ibrahimović,36.0,Sweden,85.0,85.0,LA Galaxy,14.0,15.0,RS,"Mar 23, 2018",195.58,94.800728,€21M
+220793,D. Sánchez,22.0,Colombia,84.0,88.0,Tottenham Hotspur,34.0,105.0,RCB,"Aug 26, 2017",187.96,78.92500799999999,€65.5M
+216460,J. Giménez,23.0,Uruguay,84.0,88.0,Atlético Madrid,34.0,63.0,RCB,"Jul 1, 2013",185.42,79.83219199999998,€72.3M
+212462,Alex Telles,25.0,Brazil,84.0,87.0,FC Porto,32.0,22.0,LB,"Jul 13, 2016",154.94,71.213944,€66.4M
+212218,A. Laporte,24.0,France,84.0,88.0,Manchester City,34.0,135.0,LCB,"Jan 30, 2018",187.96,84.821704,€65.5M
+212198,Bruno Fernandes,23.0,Portugal,84.0,88.0,Sporting CP,40.5,22.0,LCM,"Jul 1, 2017",154.94,68.945984,€84M
+212190,N. Süle,22.0,Germany,84.0,90.0,FC Bayern München,36.5,84.0,CB,"Jul 1, 2017",195.58,97.068688,€67.5M
+211300,A. Martial,22.0,France,84.0,90.0,Manchester United,42.5,165.0,LW,"Sep 1, 2015",182.88,76.203456,€87.1M
+211117,D. Alli,22.0,England,84.0,90.0,Tottenham Hotspur,42.5,115.0,LCM,"Feb 2, 2015",187.96,79.83219199999998,€87.1M
+209499,Fabinho,24.0,Brazil,84.0,88.0,Liverpool,34.0,120.0,CDM,"Jul 1, 2018",187.96,78.017824,€67.2M
+207865,Marquinhos,24.0,Brazil,84.0,89.0,Paris Saint-Germain,35.5,90.0,LDM,"Jul 19, 2013",182.88,74.84268,€68.3M
+207566,William Carvalho,26.0,Portugal,84.0,86.0,Real Betis,31.5,38.0,CDM,"Jul 13, 2018",187.96,83.007336,€68.5M
+205498,Jorginho,26.0,Italy,84.0,87.0,Chelsea,38.0,155.0,CM,"Jul 16, 2018",154.94,67.13161600000001,€73.2M
+204970,F. Thauvin,25.0,France,84.0,87.0,Olympique de Marseille,39.0,72.0,RM,"Jul 1, 2017",154.94,69.85316800000001,€77M
+204963,Carvajal,26.0,Spain,84.0,87.0,Real Madrid,31.5,185.0,RB,"Jul 5, 2013",172.72,73.028312,€66.9M
+202556,M. Depay,24.0,Netherlands,84.0,89.0,Olympique Lyonnais,42.0,93.0,ST,"Jan 20, 2017",175.26,78.017824,€83M
+200104,H. Son,25.0,Korea Republic,84.0,85.0,Tottenham Hotspur,37.0,125.0,LM,"Aug 28, 2015",182.88,64.863656,€71.2M
+199482,A. Lopes,27.0,Portugal,84.0,86.0,Olympique Lyonnais,25.0,72.0,GK,"Jul 1, 2011",182.88,81.19296800000001,€49.4M
+198176,S. de Vrij,26.0,Netherlands,84.0,86.0,Inter,31.5,88.0,CB,"Jul 1, 2018",187.96,78.017824,€55.9M
+198009,M. Perin,25.0,Italy,84.0,89.0,Juventus,29.5,105.0,GK,"Jul 1, 2018",187.96,77.11064,€50.9M
+193082,J. Cuadrado,30.0,Colombia,84.0,84.0,Juventus,29.5,150.0,RAM,"Feb 2, 2015",154.94,72.121128,€48.7M
+192629,Iago Aspas,30.0,Spain,84.0,84.0,RC Celta,30.0,45.0,ST,"Jul 1, 2015",175.26,67.13161600000001,€63M
+192563,B. Leno,26.0,Germany,84.0,87.0,Arsenal,27.0,115.0,GK,"Jul 1, 2018",190.5,83.007336,€53.3M
+191202,N. Matić,29.0,Serbia,84.0,84.0,Manchester United,24.0,165.0,CDM,"Jul 31, 2017",193.04,84.821704,€44.4M
+190941,L. Hrádecký,28.0,Finland,84.0,84.0,Bayer 04 Leverkusen,22.0,74.0,GK,"Jul 1, 2018",193.04,84.821704,€37.4M
+190584,Illarramendi,28.0,Spain,84.0,84.0,Real Sociedad,31.0,51.0,RDM,"Aug 26, 2015",154.94,74.84268,€65.1M
+188377,K. Walker,28.0,England,84.0,84.0,Manchester City,24.5,165.0,RB,"Jul 14, 2017",182.88,69.85316800000001,€45.3M
+186942,I. Gündoğan,27.0,Germany,84.0,84.0,Manchester City,32.0,175.0,CM,"Jul 1, 2016",154.94,79.83219199999998,€59.2M
+185020,José Callejón,31.0,Spain,84.0,84.0,Napoli,27.5,105.0,RM,"Jul 11, 2013",154.94,73.028312,€46.8M
+183898,A. Di María,30.0,Argentina,84.0,84.0,Paris Saint-Germain,29.5,125.0,RM,"Aug 6, 2015",154.94,68.945984,€54.6M
+181783,M. Mandžukić,32.0,Croatia,84.0,84.0,Juventus,25.0,160.0,ST,"Jul 1, 2015",190.5,84.821704,€41.3M
+180403,Willian,29.0,Brazil,84.0,84.0,Chelsea,30.5,175.0,RW,"Aug 28, 2013",175.26,78.017824,€56.4M
+178750,Sergio Asenjo,29.0,Spain,84.0,85.0,Villarreal CF,24.0,42.0,GK,"Jun 30, 2014",187.96,87.089664,€52.2M
+178562,E. Banega,30.0,Argentina,84.0,84.0,Sevilla FC,29.0,31.0,CDM,"Jul 3, 2017",175.26,71.213944,€60.9M
+177413,A. Witsel,29.0,Belgium,84.0,84.0,Borussia Dortmund,24.0,77.0,LCM,"Aug 17, 2018",187.96,81.19296800000001,€40.8M
+177388,D. Payet,31.0,France,84.0,84.0,Olympique de Marseille,27.5,75.0,CAM,"Jan 30, 2017",175.26,77.11064,€52.3M
+176769,Jonas,34.0,Brazil,84.0,84.0,SL Benfica,16.5,25.0,ST,"Sep 12, 2014",154.94,73.935496,€33M
+172879,Sokratis,30.0,Greece,84.0,84.0,Arsenal,23.0,140.0,RCB,"Jul 2, 2018",185.42,84.821704,€43.7M
+167628,S. Ruffier,31.0,France,84.0,84.0,AS Saint-Étienne,19.0,41.0,GK,"Jul 11, 2011",187.96,92.98635999999999,€36.1M
+167397,Falcao,32.0,Colombia,84.0,84.0,AS Monaco,25.0,115.0,RS,"Jul 1, 2013",154.94,72.121128,€47.5M
+163587,K. Schmeichel,31.0,Denmark,84.0,84.0,Leicester City,19.0,78.0,GK,"Jun 1, 2011",187.96,88.904032,€36.1M
+157481,Raúl Albiol,32.0,Spain,84.0,84.0,Napoli,18.0,88.0,RCB,"Jul 21, 2013",190.5,82.10015200000001,€30.6M
+143076,A. Gómez,30.0,Argentina,84.0,84.0,Atalanta,30.0,53.0,LS,"Sep 2, 2014",165.1,68.0388,€51M
+137186,A. Barzagli,37.0,Italy,84.0,84.0,Juventus,4.2,95.0,CB,"Jan 1, 2011",187.96,87.089664,€6.9M
+20775,Quaresma,34.0,Portugal,84.0,84.0,Beşiktaş JK,15.5,80.0,RM,"Jul 22, 2015",175.26,67.13161600000001,€29.5M
+9014,A. Robben,34.0,Netherlands,84.0,84.0,FC Bayern München,15.5,110.0,RM,"Aug 28, 2009",154.94,79.83219199999998,€25.6M
+231443,O. Dembélé,21.0,France,83.0,92.0,FC Barcelona,40.0,155.0,RW,"Aug 28, 2017",154.94,67.13161600000001,€90M
+230666,Gabriel Jesus,21.0,Brazil,83.0,92.0,Manchester City,41.0,130.0,ST,"Aug 3, 2016",175.26,73.028312,€84.1M
+230481,Ronaldo Cabrais,26.0,Brazil,83.0,83.0,Grêmio,28.0,51.0,RW,"Jan 1, 2018",154.94,74.84268,€50.4M
+230375,Josué Chiamulera,26.0,Brazil,83.0,83.0,Grêmio,22.5,43.0,LCB,"Jan 1, 2018",185.42,79.83219199999998,€40.5M
+230294,Louri Beretta,26.0,Brazil,83.0,83.0,Atlético Mineiro,28.5,60.0,ST,"Jan 1, 2018",187.96,83.007336,€54.2M
+225850,P. Kimpembe,22.0,France,83.0,89.0,Paris Saint-Germain,30.5,82.0,LCB,"Jul 1, 2015",187.96,79.83219199999998,€62.5M
+220971,N. Keïta,23.0,Guinea,83.0,88.0,Liverpool,34.0,120.0,CM,"Jul 1, 2018",172.72,63.956472,€67.2M
+219683,C. Tolisso,23.0,France,83.0,88.0,FC Bayern München,34.0,85.0,CM,"Jul 1, 2017",154.94,81.19296800000001,€58.7M
+213565,T. Lemar,22.0,France,83.0,89.0,Atlético Madrid,35.5,64.0,LM,"Jul 1, 2018",170.18,62.142104,€79.9M
+213345,K. Coman,22.0,France,83.0,87.0,FC Bayern München,34.0,85.0,LM,"Aug 30, 2015",154.94,71.213944,€58.7M
+213331,J. Tah,22.0,Germany,83.0,88.0,Bayer 04 Leverkusen,29.5,67.0,CB,"Jul 16, 2015",195.58,97.068688,€52.4M
+212523,Anderson Talisca,24.0,Brazil,83.0,90.0,Guangzhou Evergrande Taobao FC,36.5,18.0,CAM,,190.5,79.83219199999998,
+212188,T. Werner,22.0,Germany,83.0,87.0,RB Leipzig,34.5,70.0,RW,"Jul 1, 2016",154.94,74.84268,€61.2M
+210008,A. Rabiot,23.0,France,83.0,87.0,Paris Saint-Germain,33.0,91.0,CM,"Jul 1, 2012",193.04,79.83219199999998,€63.5M
+209658,L. Goretzka,23.0,Germany,83.0,88.0,FC Bayern München,34.0,85.0,CM,"Jul 1, 2018",187.96,78.92500799999999,€58.7M
+208808,Q. Promes,26.0,Netherlands,83.0,84.0,Sevilla FC,30.5,28.0,RM,"Aug 31, 2018",175.26,72.121128,€66.3M
+208670,H. Ziyech,25.0,Morocco,83.0,86.0,Ajax,32.5,28.0,RAM,"Aug 30, 2016",154.94,64.863656,€47.9M
+208618,Lucas Vázquez,27.0,Spain,83.0,83.0,Real Madrid,27.0,205.0,RW,"Jul 2, 2015",172.72,69.85316800000001,€55.4M
+208418,Y. Carrasco,24.0,Belgium,83.0,86.0,Dalian YiFang FC,33.0,20.0,LM,"Feb 26, 2018",154.94,73.028312,€73.4M
+208093,Gerard Moreno,26.0,Spain,83.0,85.0,Villarreal CF,32.0,53.0,LS,"Jul 2, 2018",154.94,77.11064,€69.6M
+207863,Felipe,29.0,Brazil,83.0,83.0,FC Porto,20.0,22.0,RCB,"Jul 1, 2016",190.5,86.18248,€40M
+207410,M. Kovačić,24.0,Croatia,83.0,89.0,Chelsea,35.0,165.0,LCM,,175.26,78.017824,
+206585,Kepa,23.0,Spain,83.0,91.0,Chelsea,28.5,84.0,GK,"Aug 8, 2018",185.42,84.821704,€58.4M
+206545,Manu Trigueros,26.0,Spain,83.0,84.0,Villarreal CF,30.0,49.0,RCM,"Jul 1, 2011",154.94,74.84268,€65.3M
+206113,S. Gnabry,22.0,Germany,83.0,88.0,FC Bayern München,34.5,85.0,ST,"Jul 1, 2017",175.26,74.84268,€59.5M
+204935,J. Pickford,24.0,England,83.0,88.0,Everton,25.0,78.0,GK,"Jun 15, 2017",185.42,77.11064,€49.4M
+204639,S. Savić,27.0,Montenegro,83.0,86.0,Atlético Madrid,26.0,67.0,CB,"Jul 20, 2015",187.96,78.92500799999999,€55.3M
+203574,J. Stones,24.0,England,83.0,87.0,Manchester City,28.5,125.0,RCB,"Aug 9, 2016",187.96,69.85316800000001,€54.9M
+202651,Suso,24.0,Spain,83.0,86.0,Milan,33.0,115.0,RW,"Jan 17, 2015",175.26,69.85316800000001,€58.6M
+202166,J. Draxler,24.0,Germany,83.0,86.0,Paris Saint-Germain,32.5,91.0,CM,"Jan 3, 2017",187.96,77.11064,€62.6M
+201995,Felipe Anderson,25.0,Brazil,83.0,85.0,West Ham United,31.5,110.0,LM,"Jul 15, 2018",175.26,69.85316800000001,€62.2M
+200949,Lucas Moura,25.0,Brazil,83.0,84.0,Tottenham Hotspur,31.0,115.0,RM,"Jan 31, 2018",175.26,69.85316800000001,€59.7M
+200888,Danilo Pereira,26.0,Portugal,83.0,86.0,FC Porto,27.0,21.0,CDM,"Jul 2, 2015",187.96,83.007336,€56M
+200724,Nacho Fernández,28.0,Spain,83.0,85.0,Real Madrid,24.5,180.0,CB,"Aug 1, 2010",154.94,76.203456,€52.1M
+200316,T. Horn,25.0,Germany,83.0,87.0,1. FC Köln,24.0,25.0,GK,"Jul 1, 2011",193.04,89.811216,€37.8M
+199914,Allan,27.0,Brazil,83.0,83.0,Napoli,26.5,87.0,RCM,"Jul 22, 2015",175.26,73.935496,€45.1M
+199845,F. Acerbi,30.0,Italy,83.0,83.0,Lazio,19.0,64.0,CB,"Jul 11, 2018",193.04,87.996848,€32.3M
+199564,Sergi Roberto,26.0,Spain,83.0,86.0,FC Barcelona,26.5,170.0,RB,"Jul 1, 2013",154.94,68.0388,€56.3M
+198329,Rodrigo,27.0,Spain,83.0,84.0,Valencia CF,30.5,57.0,ST,"Dec 3, 2014",182.88,77.11064,€66.3M
+197965,Pizzi,28.0,Portugal,83.0,83.0,SL Benfica,25.5,22.0,LCM,"Jul 30, 2013",154.94,72.121128,€51M
+195365,K. Kampl,27.0,Slovenia,83.0,83.0,RB Leipzig,26.5,74.0,LCM,"Aug 31, 2017",154.94,67.13161600000001,€45.1M
+194404,Neto,28.0,Brazil,83.0,84.0,Valencia CF,21.0,41.0,GK,"Jul 7, 2017",190.5,83.91452,€45.7M
+193698,O. Baumann,28.0,Germany,83.0,84.0,TSG 1899 Hoffenheim,21.0,42.0,GK,"Jul 1, 2014",187.96,82.10015200000001,€37.3M
+193474,I. Gueye,28.0,Senegal,83.0,83.0,Everton,21.0,125.0,RDM,"Aug 3, 2016",175.26,66.224432,€39.9M
+192883,H. Mkhitaryan,29.0,Armenia,83.0,83.0,Arsenal,25.5,145.0,RM,"Jan 22, 2018",154.94,74.84268,€48.5M

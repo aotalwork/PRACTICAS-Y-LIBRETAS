@@ -1,0 +1,6 @@
+,Nombre,Producto,Apellido,Compra,Venta,C.P,Entregado,Localidad
+Tienda 1,Álvaro,Queso manchego,Álvarez,10.0,22.0,02001,True,Albacete
+Tienda 2,Benito,Vino manchego,Benitez,10.0,14.5,02001,True,Albacete
+Tienda 3,Fernando,Jamón extremeño,Fernández,35.0,50.0,02003,,Albacete
+Tienda 4,Martín,Aceite andaluz,Martínez,12.0,20.0,02004,,Albacete
+Tienda 2,Hernán,Azafrán manchego,Hernández,10.0,0.0,02004,True,Albacete
